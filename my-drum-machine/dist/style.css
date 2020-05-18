@@ -1,0 +1,28 @@
+#root {
+  
+}
+
+#drum-machine {
+  position: flex;
+  width: 200px;
+  height: 250px;
+  margin: auto;
+  padding: 10px;
+  border: 1px solid black;
+}
+
+#display {
+  display: relative;
+  text-align: center;
+  height: 50px;
+  width: 192px;
+  border: 1px solid black;
+}
+
+.drum-pad {
+  display: relative;
+  width: 60px;
+  height: 60px;
+  margin-left: 2px;
+  margin-right: 2px;
+}
